@@ -23,7 +23,7 @@
       "name": "PercolationStats",
       "request": "launch",
       "mainClass": "PercolationStats",
-      "args": [10, 1000],
+      "args": [1000, 1000],
       "projectName": "percolation-assignment_cd81110e"
     }
   ]
