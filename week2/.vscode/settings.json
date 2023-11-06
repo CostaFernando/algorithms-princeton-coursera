@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/fernando/Code/algorithms-I-coursera/algs4.jar"
+  ]
+}
